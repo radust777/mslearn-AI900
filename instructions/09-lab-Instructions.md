@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Translation'
+---
+
 # AI-900 Labs
 ## 09 Lab Instructions
 In this lab we will create an application that can understand language. 
