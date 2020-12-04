@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'QnA Bot'
+---
+
 # AI-900 Labs
 ## 11 Lab Instructions
 In this lab we will create a bot that answers user questions.

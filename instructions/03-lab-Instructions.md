@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Object Detection'
+---
+
 # AI-900 Labs
 ## 03 Lab Instructions
 In this lab we will be using the Custom Vision service in Azure to identify multiple real-world items in one image.
