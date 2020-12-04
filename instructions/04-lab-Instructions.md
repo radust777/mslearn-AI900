@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Face Analysis'
+---
+
 # AI-900 Labs
 ## 04 Lab Instructions
 In this lab we will be using the Face service in Azure to identify real-world items based on images.

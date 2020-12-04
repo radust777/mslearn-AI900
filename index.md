@@ -4,9 +4,9 @@ permalink: index.html
 layout: home
 ---
 
-# Azure Machine Learning Exercises
+# Azure AI Fundamentals Exercises
 
-This repository contains the hands-on lab exercises for Microsoft course [DP-100 *Designing and Implementing a Data Science Solution on Azure*](https://docs.microsoft.com/learn/certifications/courses/dp-100t01) and the equivalent [self-paced modules on Microsoft Learn](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/). The exercises are designed to accompany the learning materials and enable you to practice using the technologies they describe.
+This repository contains the hands-on lab exercises for Microsoft course [AI-900 *Microsoft Azure Artificial Intelligence*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) and the equivalent self-paced modules on Microsoft Learn [Explore computer vision in Microsoft Azure](https://docs.microsoft.com/learn/paths/explore-computer-vision-microsoft-azure/), [Explore natural language processing](https://docs.microsoft.com/learn/paths/explore-natural-language-processing/), and [Explore conversational AI](https://docs.microsoft.com/learn/paths/explore-conversational-ai/). The exercises are designed to accompany the learning materials and enable you to practice using the technologies they describe.
 
 To complete these exercises, you'll require a Microsoft Azure subscription. If your instructor has not provided you with one, you can sign up for a free trial at [https://azure.microsoft.com](https://azure.microsoft.com).
 

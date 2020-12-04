@@ -1,3 +1,8 @@
+---
+lab:
+    title: 'Receipts with Form Recognizer'
+---
+
 # AI-900 Labs
 ## 06 Lab Instructions
 In this lab we will be using the Form Recognizer service in Azure to identify text on from images of forms.

@@ -1,4 +1,4 @@
-# Microsoft Learn AI Fundamentals Exercises
+# Microsoft Azure AI Fundamentals Exercises
 
 The sample code in this repository is for use in hands-on exercises that support preparation for the [Microsoft Azure AI Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals).
 
