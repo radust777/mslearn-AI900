@@ -4,7 +4,7 @@ permalink: index.html
 layout: home
 ---
 
-# Azure Machine Learning Exercises
+# Azure AI Fundamentals Exercises
 
 This repository contains the hands-on lab exercises for Microsoft course [AI-900 *Microsoft Azure Artificial Intelligence*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) and the equivalent self-paced modules on Microsoft Learn [Explore computer vision in Microsoft Azure](https://docs.microsoft.com/learn/paths/explore-computer-vision-microsoft-azure/), [Explore natural language processing](https://docs.microsoft.com/learn/paths/explore-natural-language-processing/), and [Explore conversational AI](https://docs.microsoft.com/learn/paths/explore-conversational-ai/). The exercises are designed to accompany the learning materials and enable you to practice using the technologies they describe.
 
