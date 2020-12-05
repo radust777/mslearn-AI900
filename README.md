@@ -26,7 +26,7 @@ The sample code in this repository is for use in hands-on exercises that support
 
 - If you have suggestions or spot any errors, please [report it](https://docs.microsoft.com/learn/support/troubleshooting#report-feedback).
 
-## Notes
+## Notes 
 
 ### Classroom Materials
 
