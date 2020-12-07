@@ -3,7 +3,7 @@ lab:
     title: 'Get started with artificial intelligence on Azure'
 ---
 
-## 01 - Module 01 Instructions
+## Instructions
 In this lab we will be looking at guidelines for Responsible AI.
 
 1.	Go to [Guidelines for Human-AI Interaction demo](https://aka.ms/hci-demo)
