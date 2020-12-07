@@ -10,11 +10,10 @@ This repository contains the hands-on lab exercises for Microsoft course [AI-900
 
 To complete these exercises, you'll need a Microsoft Azure subscription. If your instructor has not provided you with one, you can sign up for a free trial at [https://azure.microsoft.com](https://azure.microsoft.com).
 
-If you are working independently on your local computer, you can follow these additional steps to complete the labs:
+If you are working independently on your local computer, you can follow these additional steps to complete the labs requiring you to open an ipynb file:
 
-1. Download and open [Visual Studio Code](https://code.visualstudio.com/Download)
+1. Download and open [Visual Studio Code](https://code.visualstudio.com/Download).
 2. Go to *View*, go to *Terminal*, type **git clone https://github.com/MicrosoftDocs/ai-fundamentals** and press *enter*. Cloning the project allows you to save your work on your local computer. 
-3. These exercises get updated. If you want to pull the latest version of the exercises, Go to *View*, go to *Terminal*, make sure the terminal instance in the drop down list is set to **cmd**. Then type **getfiles.cmd** and press *enter*.
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/instructions'" %}
 | Exercises |
