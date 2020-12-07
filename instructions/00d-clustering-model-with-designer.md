@@ -6,5 +6,4 @@ lab:
 ## Instructions
 In this lab we will be looking at how to create clustering models using Azure Machine Learning designer.
 
-### Tasks
 1.	Go to the Microsoft Learn module at https://docs.microsoft.com/learn/modules/create-clustering-model-azure-machine-learning-designer/
