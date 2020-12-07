@@ -13,7 +13,7 @@ To complete these exercises, you'll need a Microsoft Azure subscription. If your
 If you are working independently on your local computer, you can follow these additional steps to complete the labs requiring you to open an *ipynb* file:
 
 1. Download and open [Visual Studio Code](https://code.visualstudio.com/Download).
-2. Go to *View*, go to *Terminal*, type **git clone https://github.com/MicrosoftLearning/mslearn-ai900** and press *enter*. Cloning the project allows you to save your work on your local computer. 
+2. Go to *Terminal*, go to *New Terminal*, type **git clone https://github.com/MicrosoftLearning/mslearn-ai900** and press *enter*. Cloning the project allows you to save your work on your local computer. 
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/instructions'" %}
 | Exercises |
