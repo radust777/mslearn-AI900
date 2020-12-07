@@ -1,8 +1,3 @@
----
-lab:
-    title: 'Pull latest files'
----
-
 ## Get Set Up
 1.  Log into the **Student** account with the password +++Pa55w.rd+++
 2.  Start Visual Studio Code. When it opens, you should see the MSLEARN-AI900 project on the left-hand panel.
