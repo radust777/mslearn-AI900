@@ -1,6 +1,6 @@
 # Microsoft Azure AI Fundamentals Exercises
 
-This repository contains the hands-on lab exercises for Microsoft course [AI-900 *Microsoft Azure AI Fundamentals*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) and the [self-paced modules on Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). The labs are designed to accompany the learning materials and enable you to practice. 
+This repository contains the hands-on lab exercises for Microsoft course [AI-900 *Microsoft Azure AI Fundamentals*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) and the [self-paced modules on Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). The labs are designed to accompany the learning materials and enable you to practice using the technologies they describe. 
 
 You can view the instructions for the lab exercises at https://microsoftlearning.github.io/mslearn-ai900/. 
 
