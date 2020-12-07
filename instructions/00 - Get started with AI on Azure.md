@@ -3,10 +3,6 @@ lab:
     title: 'Get started with artificial intelligence on Azure'
 ---
 
-# AI-900 Labs
-## Get Set Up
-1.  Log into the **Student** account with the password +++Pa55w.rd+++
-
 ## 01 - Module 01 Instructions
 In this lab we will be looking at guidelines for Responsible AI.
 
