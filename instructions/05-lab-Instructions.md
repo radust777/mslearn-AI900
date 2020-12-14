@@ -3,7 +3,6 @@ lab:
     title: 'Optical Character Recognition'
 ---
 
-# AI-900 Labs
 ## 05 Lab Instructions
 In this lab we will be using the Optical Character Recognition service in Azure to identify text in any image.
 

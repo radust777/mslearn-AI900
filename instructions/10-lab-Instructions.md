@@ -3,7 +3,6 @@ lab:
     title: 'Language Understanding'
 ---
 
-# AI-900 Labs
 ## 10 Lab Instructions
 In this lab we will create an application that can understand language. 
 

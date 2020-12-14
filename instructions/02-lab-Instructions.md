@@ -3,7 +3,6 @@ lab:
     title: 'Image Classification'
 ---
 
-# AI-900 Labs
 ## 02 Lab Instructions
 In this lab we will be using the Custom Vision service in Azure to identify one real-world item in an image.
 

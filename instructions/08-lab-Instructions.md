@@ -3,7 +3,6 @@ lab:
     title: 'Speech'
 ---
 
-# AI-900 Labs
 ## 08 Lab Instructions
 In this lab we will create an application that can understand language. 
 

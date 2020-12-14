@@ -3,7 +3,6 @@ lab:
     title: 'Text Analytics'
 ---
 
-# AI-900 Labs
 ## 07 Lab Instructions
 In this lab we will create an application that can understand language.
 

@@ -3,7 +3,6 @@ lab:
     title: 'Image Analysis with Computer Vision'
 ---
 
-# AI-900 Labs
 ## 01 Lab Instructions
 In this lab we will be using the Computer Vision service in Azure to identify real-world items based on images.
 
