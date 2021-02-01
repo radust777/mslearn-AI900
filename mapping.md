@@ -13,7 +13,7 @@ The subset of AI-900 labs used in this course are mapped per module as follows:
 | AI-900 Trainer Lab # | Topic | Markdown |
 | --- | --- | --- |
 | 01: AI-900 Module 01 | Get Started with Artificial Intelligence on Azure | [Responsible AI Cards](https://github.com/MicrosoftLearning/mslearn-ai900/blob/main/instructions/00%20-%20Get%20started%20with%20AI%20on%20Azure.md) |
-| 02: AI-900 Module 02 | Use automated machine learning in Azure Machine Learning | [Automated Machine Learning](https://github.com/MicrosoftLearning/mslearn-ai900/blob/main/instructions/00a-automated-machine-learning.md) |
+| 02: AI-900 Module 02 | Use automated machine learning in Azure Machine Learning | [Lab completed with Learn module](https://github.com/MicrosoftLearning/mslearn-ai900/blob/main/instructions/00a-automated-machine-learning.md) |
 | 03: AI-900 Module 03 | Image Classification  | [Lab 02](https://github.com/MicrosoftLearning/mslearn-ai900/blob/main/instructions/02-lab-Instructions.md) |
 | 04: AI-900 Module 04 | Language Understanding | [Lab 10](https://github.com/MicrosoftLearning/mslearn-ai900/blob/main/instructions/10-lab-Instructions.md) |
 | 05: AI-900 Module 05 | QnA Bot | [Lab 11](https://github.com/MicrosoftLearning/mslearn-ai900/blob/main/instructions/11-lab-Instructions.md) |
