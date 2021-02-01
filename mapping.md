@@ -1,16 +1,16 @@
-# AI-900 Instructor lab mapping
+# AI-900 trainer lab mapping
 
-This course, AI-900: AI Fundamentals, has a subset of labs designated for instructor-led training adapted to fit a 1 day course.
+This course, AI-900: AI Fundamentals, has a subset of labs   designated for instructor-led training adapted to fit a 1-day course.
 
-AI-900 Microsoft Certified Trainer labs are a subset of the AI-900 labs and are taken directly from the [AI-900 lab repository](https://github.com/MicrosoftLearning/mslearn-ai900).
+AI-900 trainer labs are a subset of the AI-900 labs (01-11) and are taken from the [AI-900 lab repository](https://github.com/MicrosoftLearning/mslearn-ai900).
 
-> Note: Instructors may choose to add additional labs from the full set of AI-900 labs (01-11) to their modules.
+> Note: Instructors may choose to add additional labs from the full set of AI-900 labs (01-11) to their modules when teaching.
 
-## AI-900 Instructor module mapping to labs
+## AI-900 module mapping to labs
 
-The subset of 5 AI-900 labs used in this course are mapped per module as follows: 
+The subset of AI-900 labs used in this course are mapped per module as follows: 
 
-| ILT Module Lab | Lab Exercise | Markdown Path |
+| AI-900 Trainer Lab # | Topic | Markdown Path |
 | --- | --- | --- |
 | 01: AI-900 Module 01 | Get Started with Artificial Intelligence on Azure | https://github.com/MicrosoftLearning/mslearn-ai900/instructions/00 - Get started with AI on Azure.md |
 | 02: AI-900 Module 02 | Use automated machine learning in Azure Machine Learning | https://github.com/MicrosoftLearning/mslearn-ai900/instructions/00a-automated-machine-learning.md |
