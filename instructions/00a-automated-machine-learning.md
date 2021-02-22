@@ -8,7 +8,6 @@ In this lab we will look at how to use automated machine learning in Azure Machi
 
 1.	Go to the Microsoft Learn module at +++https://docs.microsoft.com/learn/modules/use-automated-machine-learning/+++ and complete the following units in the browser: 
 
-- What is Machine Learning? 
 - Create an Azure Machine Learning workspace
 - Create compute resources
 - Explore data
